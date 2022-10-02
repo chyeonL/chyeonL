@@ -15,8 +15,8 @@
 
 ### 项目
 
-- 基于 `Vue2` + `node.js` + `mysql` 的==移动端网页==电商项目
-- 基于 `Vue2` + `Element-UI` 的==PC端==商城项目
+- 基于 `Vue2` + `node.js` + `mysql` 的 移动端网页 电商项目
+- 基于 `Vue2` + `Element-UI` 的 PC端 商城项目
 
 
 ### 个人博客
