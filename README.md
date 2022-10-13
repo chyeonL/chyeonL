@@ -7,10 +7,11 @@
 
 ### 技术栈
 
-- 熟悉HTML、CSS、Javascript
-- 熟悉Vue2 
-- 熟悉Axios、ajax
-- 了解node.js
+- 熟悉HTML、CSS、Javascript，可独立编写页面
+- 熟悉Vue2框架，进行组件化开发
+- 熟悉axios、git常用命令
+- 了解node.js、express框架
+- 了解webpack
 
 
 ### 项目
