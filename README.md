@@ -11,7 +11,6 @@
 - 熟悉Vue2框架，进行组件化开发
 - 熟悉axios、git常用命令
 - 了解node.js、express框架
-- 了解webpack
 
 
 ### 项目
