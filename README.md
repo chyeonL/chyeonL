@@ -17,13 +17,13 @@
 
 ### 项目
 
-- 基于 `Vue2` + `node.js` + `mysql` + `vant` 的 移动端网页 电商项目
+- 一杯好茶：基于 `Vue2` + `node.js` + `mysql` + `vant` 的 移动端网页 电商项目
 
       亮点：token过期判断处理、rem响应式布局、表单验证、better-scroll滑动、前后端分离、SCSS预处理器使用
-- 基于 `Vue2` + `Element-UI`+ `Echarts` + `node.js`  + `mysql`的 PC端 后台管理系统
+- 商铺管理系统：基于 `Vue2` + `Element-UI`+ `Echarts` + `node.js`  + `mysql`的 PC端 后台管理系统
 
       亮点：i18n国际化、Echarts表格可视化、可导出为excel、txt、pdf文件、封装复用组件（分页器等）
-- 基于 `Vue2` + `Element-UI` + `Vuex` + `axios` 的 PC端 商城项目
+- 仲园优选：基于 `Vue2` + `Element-UI` + `Vuex` + `axios` 的 PC端 商城项目
 
       亮点：mockjs请求虚拟数据、轮询判断订单支付状态、lodash防抖节流优化、图片懒加载
 
